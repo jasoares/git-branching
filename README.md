@@ -4,3 +4,5 @@ Hello Git World
 3rd commit Staging
 
 Feature C
+
+Feature A'
